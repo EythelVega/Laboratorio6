@@ -1,13 +1,36 @@
 .navbar{
     font-size: 40px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
 
 }
 
 .letra{
     font-size: 35px;
+    margin-bottom: 20px;
 }
 .img{
-    width: 800px;
+    width: 600px;
     
 }
+.navbar-brand img{
+    width: 200px;
+    height: fit-content;
+}
+.nav-link{
+    color: white;
+}
+.title{
+    font-size: 60px;
+    padding-left: 30px;
+    margin-top: 160px;
+}
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+}
+.img2{
+    width: 600px;
+
+}
+  
